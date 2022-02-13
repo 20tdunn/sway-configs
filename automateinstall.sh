@@ -8,4 +8,4 @@ mv -r /home/trevor/.hidden/swayconfigs/Wallpapers /home/trevor/Pictures/
 
 mv -r /home/trevor/.hidden/swayconfigs/alacritty /home/trevor/.hidden/swayconfigs/wofi /home/trevor/.hidden/swayconfigs/waybar /home/trevor/.hidden/swayconfigs/sway /home/trevor/.hidden/swayconfigs/fish  /home/trevor/.config/
 
-pacman -S sway alacritty firefox wofi waybar fish git nemo zip unzp kdeconnect tlp pulseaudio pavucontrol
+pacman -S sway alacritty firefox wofi waybar fish git nemo zip unzp kdeconnect tlp pulseaudio pavucontrol obs-studio flameshot vlc thunderbird discord signal-desktop vim htop
