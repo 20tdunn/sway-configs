@@ -4,7 +4,7 @@ mkdir Desktop Documents Downloads Pictures Videos .config/ .hidden/
 
 mv /home/trevor/sway-configs /home/trevor/swayconfigs
 
-mv swayconfigs /home/trevor/.hidden/
+mv /home/trevor/swayconfigs /home/trevor/.hidden/
 
 mv /home/trevor/.hidden/swayconfigs/Wallpapers /home/trevor/Pictures/
 
